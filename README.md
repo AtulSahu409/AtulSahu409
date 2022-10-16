@@ -5,7 +5,7 @@
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="uddish0909@gmail.com" />
   </a>
-  <a href="linkedin.com/in/atul-sahu-537ab1236/">
+  <a href="linkedin.com/in/atul-sahu-537ab1236"/>
     <img align="center"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="https://www.linkedin.com/in/jatin-khatter-7b7166217/"/>
