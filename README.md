@@ -25,7 +25,7 @@
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>i love networking with
       people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
-   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AtulSahu409&theme=dracula&hide_border=true)
+
 
 
  
